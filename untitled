@@ -1,0 +1,21 @@
+
+Your identification has been saved in /Users/kimitaka.nishimura/.ssh/id_rsa
+Your public key has been saved in /Users/kimitaka.nishimura/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:btiGGvCsSKke+tclhLGpUXMztyE8V3WFqP0BM4gFwFo kimitaka.nishimura@ip-172-29-253-1.ap-northeast-1.compute.internal
+The key's randomart image is:
++---[RSA 3072]----+
+|     o...=oo...o.|
+|    + E = . =..  |
+|   . X B o o +   |
+|  . = . . . . .  |
+|  .o .  S    . . |
+|  o+  .=.     .  |
+| +  +.oo=        |
+|+....o.o         |
+|=oo..            |
++----[SHA256]-----+
+[.ssh]$ 
+
+
+本番環境
